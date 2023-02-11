@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="98px" height="61px" viewBox="0 0 98 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>main-+-corner-+-Sale</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sale" sketch:type="MSLayerGroup">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="Sale">
+                    <g id="main-+-corner-+-Sale">
+                        <g id="Page-1">
+                            <g id="Artboard-1">
+                                <g id="green">
+                                    <g id="main-+-corner-+-Sale">
+                                        <path d="M0.311035156,0.749511719 L55.3745117,0.749511719 L97.0610352,24.6848145 L97.0610352,55.6223145 L0.311035156,0.749511719 L0.311035156,0.749511719 L0.311035156,0.749511719 Z" id="main" fill="#1DA650"></path>
+                                        <path d="M92,52.7186279 L97.0311279,55.5 L92,60.2498779 L92,52.7186279 L92,52.7186279 L92,52.7186279 Z" id="corner" fill="#006023"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
